@@ -1,3 +1,6 @@
+// Aluno 1: Abraão da Cunha Ribeiro Silva; Matrícula: 202211140012
+// Aluno 2: Weverton Cristian de Sousa Duarte; Matrícula: 202204940050
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
