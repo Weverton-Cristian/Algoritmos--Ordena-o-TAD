@@ -5,9 +5,13 @@ uma opção de escolher a quantidade de valores inteiros de entrada dentre as op
 uma opção de escolher como os valores de entrada estão dispostos antes da ordenação, ou seja, ordenados descendentes e/ou aleatórios.
 uma opção para apresentar os valores do vetor de entrada, ou seja, o vetor antes da ordenação.
 O programa deverá ter uma opção para a escolha do algoritmo de ordenação entre três  algoritmos de ordenação, escolhendo conforme a regra:
+
 Escolher um dos algoritmos: Bubblesort, Selectionsort, Insertionsort
+
 Escolher um dos algoritmos: Mergesort, Quicksort, Heapsort 
+
 Escolher um dos algoritmos: radixsort, bucket sort e counting sort
+
 Durante a ordenação, o programa deverá contabilizar o número de comparações, número de trocas que realizam na ordenação de sequências, e o tempo de execução.
 Após a execução do algoritmo de ordenação, o programa deverá apresentar o vetor ordenado, bem como o tempo de execução, número de comparações, e número de trocas.
 
